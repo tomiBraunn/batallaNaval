@@ -1,7 +1,7 @@
 import random
 
 disparos = 10
-barcos = 
+barcos = 3
 
 
 tamaño = int(input("¿De qué tamaño querés el tablero?: "))
